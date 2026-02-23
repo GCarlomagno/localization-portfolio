@@ -5,112 +5,67 @@
 
 ## Professional Overview
 
-Brazilian Portuguese (PT-BR) Localization Specialist with 9+ years of experience delivering high-volume, high-accuracy localization for the iGaming and technology sectors.
+Brazilian Portuguese (PT-BR) Localization Specialist with 9+ years of experience delivering high-volume, high-accuracy localization for regulated iGaming and technology platforms.
 
-Specialized in regulated content, MTPE workflows, and Linguistic Quality Assurance (LQA) for:
+Strong background in Linguistic Quality Assurance (LQA), MTPE workflows, terminology governance, and structured localization processes for complex digital products.
 
-- Sports betting markets
-- Online casino content
-- Terms & Conditions (T&C)
-- Privacy Policies
-- Software interfaces
-- Technical documentation
-
-Due to Non-Disclosure Agreements (NDAs), project samples are presented in structured case-study format rather than direct content excerpts.
+All professional work is protected under Non-Disclosure Agreements (NDAs). For this reason, projects are presented in structured case-study format rather than direct content excerpts.
 
 ---
 
-## Core Competencies
+## Core Specializations
 
-- EN–PT-BR Translation & Localization  
-- Technical Localization  
-- MTPE (Machine Translation Post-Editing)  
+- EN–PT-BR Localization  
+- Technical & Software Localization  
+- iGaming & Sports Betting Content  
+- Legal & Regulatory Documentation (T&C, Privacy Policies)  
 - Linguistic Quality Assurance (LQA)  
+- MTPE (Machine Translation Post-Editing)  
 - Terminology Management & Glossary Development  
 - Translation Memory Optimization  
-- iGaming & Sports Betting Content  
-- Legal & Regulatory Documentation  
-- UI/UX Localization  
+- UI/UX Content Adaptation  
 
 ---
 
-## Case Study 1 – Sports Betting Localization
+## Portfolio Structure
 
-**Scope:** 40,000+ words  
-**Content:** Betting markets, promotional banners, UI strings  
+This repository is organized into structured documentation sections:
 
-### Challenges
-- Terminology precision across complex betting structures  
-- Regulatory sensitivity  
-- Numerical and odds formatting consistency  
+### Case Studies
+- [Sports Betting Localization](case-studies/sports-betting.md)
+- [Legal & Compliance Documentation](case-studies/legal-compliance.md)
+- [Software & Technical Documentation](case-studies/technical-documentation.md)
 
-### Approach
-- Glossary creation and validation  
-- Terminology consistency control  
-- Cross-checking numerical syntax and betting logic  
+### Process & Methodology
+- [Localization Workflow](workflow/localization-process.md)
 
-### Result
-Culturally adapted, terminology-consistent localization aligned with Brazilian market standards.
+### Technical Environment
+- [Tools & Environment](tools/tools-and-environment.md)
 
 ---
 
-## Case Study 2 – Legal & Compliance Documentation
+## Professional Approach
 
-**Scope:** 25,000+ words  
-**Content:** Terms & Conditions, Privacy Policies  
+My localization methodology follows a structured framework:
 
-### Challenges
-- Maintaining legal meaning while ensuring clarity  
-- Regulatory risk mitigation  
-- Structural and formatting integrity  
+1. Scope & Risk Analysis  
+2. Terminology Mapping & Glossary Alignment  
+3. Contextual Localization  
+4. Controlled MTPE (when applicable)  
+5. Linguistic QA & Compliance Verification  
 
-### Approach
-- Terminology mapping  
-- Controlled MTPE workflow  
-- Final Linguistic QA validation  
-
-### Result
-Publish-ready legal documentation with consistent terminology and structural precision.
-
----
-
-## Case Study 3 – Software & Technical Documentation
-
-**Content:** Knowledge bases, SQA documentation, UI elements  
-
-### Challenges
-- Adapting technical language for usability  
-- Preserving placeholders and formatting variables  
-- Ensuring functional clarity  
-
-### Approach
-- Context-based localization  
-- Placeholder integrity verification  
-- Final QA pass  
-
-### Result
-Clear, user-oriented localization improving usability and comprehension.
-
----
-
-## Tools & Workflow
-
-- MemoQ  
-- SDL Trados  
-- Translation Memory Systems  
-- Terminology Databases  
-- QA Verification Tools  
-- Structured MTPE workflows  
+This ensures terminology consistency, regulatory alignment, and usability across digital products.
 
 ---
 
 ## Confidentiality Notice
 
-All professional work is protected under Non-Disclosure Agreements (NDAs).  
-Detailed project documentation or translation samples can be shared upon request under appropriate confidentiality agreements.
+All projects referenced in this portfolio are anonymized to preserve client confidentiality.  
+Detailed samples may be shared upon request under appropriate NDA agreements.
 
 ---
 
 ## Contact
 
 Email: giacomo.carlomagno@gmail.com  
+LinkedIn: (add your LinkedIn URL)
